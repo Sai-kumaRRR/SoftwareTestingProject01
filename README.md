@@ -1,6 +1,14 @@
 # SoftwareTestingProject03
 API Testing - Manually - CURD Operation
 
+CURD
+C - create
+U - update
+R - read
+D - delete
+
+
+
 # Restful Booker Testcase (excel) + Postman Testcases
 
 
