@@ -1,0 +1,28 @@
+The operating systems and versions that will be used for testing, such as Windows 11, macOS, or Linux.
+
+The browsers and versions that will be tested, such as Google Chrome, Mozilla Firefox, or Microsoft Edge.
+The device types and screen sizes that will be used for testing, such as desktop computers, laptops, tablets, and smartphones.
+
+The network connectivity and bandwidth that will be available for testing, such as Wi-Fi, cellular, or wired connections.
+
+The hardware and software requirements for running the test cases, such as a specific processor, memory, or storage capacity.
+
+The security protocols and authentication methods that will be used to access the test environment, such as passwords, tokens, or certificates.
+
+
+The access permissions and roles of the team members who will be using the test environment, such as testers, developers, or stakeholders.
+
+
+Name
+Env url
+QA
+https://restful-booker.herokuapp.com/apidoc/index.html
+Pre Prod
+https://restful-booker.herokuapp.com/apidoc/index.html
+
+
+
+ Windows 11 – Chrome, Firefox and Edge
+• Mac OS – Safari Browser
+
+
